@@ -1,5 +1,5 @@
 from parser14 import parse
-from converter14 import convert
+from exercises.converter14 import convert
 
 # if files are in different folder use following format: bonus.parser14
 
