@@ -2,6 +2,6 @@ __pycache__
 .vscode
 .DS_Store
 .venv
-requirement.txt
+requirements.txt
 setup.sh
 Procfile
